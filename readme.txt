@@ -1,4 +1,4 @@
-=== Lightning-Woo ===
+=== Lightning Woo ===
 Parent Theme: lightning
 Version: 0.1.0
 Author: Hidetaka Okamoto
