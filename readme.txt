@@ -6,7 +6,7 @@ Theme URI: https://github.com/hideokamoto/lightning-woo
 Tags: white, red, blue, black, green, orange, purple, two-columns, right-sidebar, one-columns, responsive, custom-colors, custom-menu, editor-style,theme-options
 Requires at least: 4.2
 Tested up to: 4.4.2
-Stable tag: 0.1.0
+Stable tag: 0.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,7 +36,7 @@ Screenshot Images are photo by theme author and are released under CC BY license
 
 == Changelog ==
 
-= 0.1.0 =
+= 0.1.1 =
 * Theme Released.
 
 == Contributer ==
@@ -44,5 +44,5 @@ Screenshot Images are photo by theme author and are released under CC BY license
 
 == Upgrade Notice ==
 
-= 0.1.0 =
+= 0.1.1 =
 * Theme Released.
